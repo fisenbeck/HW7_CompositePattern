@@ -1,6 +1,6 @@
 package de.uni.koeln.se;
 
-public class ContinentTeams implements OlympicsTeams {
+public class ContinentTeams implements Component {
 	private String name;
 	private int numAthletes;
 	private int numGoldMedals;
